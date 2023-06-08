@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+    <firstName>Vasya</firstName>
+    <middleName/>
+    <lastName>Pupkin</lastName>
+    <age>20</age>
+    <address>
+        <country>Ukraine</country>
+        <city>Lviv</city>
+        <street>Stepana Bandery</street>
+        <homeNumber>2</homeNumber>
+        <aptNumber>35</aptNumber>
+    </address>
+    <gender>male</gender>
+    <parents>
+        <parent_1/>
+        <parent_2>
+            <firstName>Olha</firstName>
+            <lastName>Pupkina</lastName>
+            <age>47</age>
+        </parent_2>
+    </parents>
+</students>
+<students>
+<firstName>Vasylyna</firstName>
+<middleName>Ihorivna</middleName>
+<lastName>Doe</lastName>
+<age>20</age>
+<address>
+    <country>Ukraine</country>
+    <city>Odesa</city>
+    <street>Chubaevska</street>
+    <homeNumber>27</homeNumber>
+    <aptNumber/>
+</address>
+<gender>female</gender>
+<parents>
+    <parent_1>
+        <firstName>Ihor</firstName>
+        <lastName>Doe</lastName>
+        <age>47</age>
+    </parent_1>
+    <parent_2>
+        <firstName>Iryna</firstName>
+        <lastName>Doe</lastName>
+        <age>45</age>
+    </parent_2>
+</parents>
+</students>

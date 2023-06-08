@@ -1,0 +1,57 @@
+{
+  "students": [
+    {
+      "firstName": "Vasya",
+      "middleName": null,
+      "lastName": "Pupkin",
+      "age": 20,
+      "address": {
+        "country": "Ukraine",
+        "city": "Lviv",
+        "street": "Stepana Bandery",
+        "homeNumber": 2,
+        "aptNumber": 35
+      },
+      "gender": "male",
+      "parents": [
+        {
+          "parent 1": {
+          },
+          "parent 2": {
+            "firstName": "Olha",
+            "lastName": "Pupkina",
+            "age": 47
+          }
+        }
+      ]
+    },
+    {
+      "firstName": "Vasylyna",
+      "middleName": "Ihorivna",
+      "lastName": "Doe",
+      "age": 20,
+      "address": {
+        "country": "Ukraine",
+        "city": "Odesa",
+        "street": "Chubaevska",
+        "homeNumber": 27,
+        "aptNumber": null
+      },
+      "gender": "female",
+      "parents": [
+        {
+          "parent 1": {
+            "firstName": "Ihor",
+            "lastName": "Doe",
+            "age": 47
+          },
+          "parent 2": {
+            "firstName": "Iryna",
+            "lastName": "Doe",
+            "age": 45
+          }
+        }
+      ]
+    }
+  ]
+}
